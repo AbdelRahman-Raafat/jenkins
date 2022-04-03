@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VodafonePluginApplication {
 
 	public static void main(String[] args) {
+		System.out.println("**************************************************************************");
+		System.out.println("lfc");
+		System.out.println("**************************************************************************");
 		SpringApplication.run(VodafonePluginApplication.class, args);
 	}
 }
