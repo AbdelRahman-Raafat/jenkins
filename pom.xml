@@ -8,8 +8,8 @@
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>Vodafone Plugin</name>
-    <description>Vodafone Plugin</description>
+    <name>jenkins Plugin</name>
+    <description>jenkins Plugin</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
