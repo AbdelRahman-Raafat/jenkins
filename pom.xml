@@ -25,7 +25,7 @@
         <plugin.id>jenkins-plugin</plugin.id>
         <plugin.class>com.opay.plugins.vodafone.VodafonePlugin</plugin.class>
         <plugin.version>0.0.1</plugin.version>
-        <plugin.provider>abdelRahman </plugin.provider>
+        <plugin.provider>abdelRahman  </plugin.provider>
         <plugin.dependencies/>
     </properties>
 
